@@ -1,0 +1,175 @@
+    
+
+    
+    
+    
+    
+    .part1{
+    color:white;
+    background-color: #1f2937;
+    padding-top: 20px;
+
+    display:flex;
+    justify-content: space-around;
+    flex:1;
+    
+
+
+}
+
+.header{
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+.links{
+   font-size: 18px;
+   color:#E5E7EB;
+   display:flex;
+   gap:15px;
+}
+
+.part2{
+    display:flex;
+    background-color: #1f2937;
+    justify-content: space-around;
+    padding:200px;
+    gap:50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  
+
+
+}
+
+img{
+    height:200px;
+    width:300px;
+}
+
+.mainText{
+    color: #f9faf9;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.para{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.second-part-2{
+   width:300px
+
+}
+
+button{
+    background-color: #3882f6;
+    color: #E5E7EB;
+    font-weight: bold;
+    margin-top: 5px;
+
+}
+
+.info{
+  text-align: center;
+  font-size: 36px;
+  font-weight: bolder;
+  padding-top: 20px;
+
+}
+   
+
+.WhitePart{
+    padding-top: 20px;
+   display: flex;
+   gap:20px;
+   justify-content: center;
+   flex:1;
+  
+    
+}
+
+.txt, .pic1{
+    height:200px;
+    width:200px;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    width:500px;
+    
+   
+
+}
+
+.credit{
+    font-size: 24px;
+    font-weight: bolder;
+  
+    padding-left: 250px;
+}
+.greyPart{
+    background-color: #E5E7EB;
+    height: 400px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap:8px;
+    
+
+}
+.whitebox{
+    display:flex;
+    justify-content:center;
+    
+    
+}
+.blueBox{
+    display:flex;
+    background-color: #3882f6;
+    gap:150px;
+    height: 200px;
+    min-width:900px;
+    align-items: center;
+    flex:1;
+    justify-content: center;
+    margin: 100px 400px 100px 400px;
+
+}
+
+.call{
+   font-size: 24px;
+   color: #E5E7EB;
+   font-weight: bolder;
+
+}
+
+   .first, .sec{
+    font-size: 18px;
+    font-weight: bold;
+    padding:12px 25px;
+    border: 3px white solid;
+    border-radius: 10px;
+}
+
+.first{
+    border:0;   
+}
+.lastPart> .para{
+    display:flex;
+    background-color: #1f2937;
+    justify-content: center;
+    align-items: center;
+    height:70px;
+
+}
+
+
+
+
+
+
